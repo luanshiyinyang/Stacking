@@ -51,6 +51,6 @@
 			- 代码及结果
 				- ![](https://img-blog.csdnimg.cn/20190412192249653.png)
 - 补充说明
-	- 主要介绍了框架Mlxtend的使用
+	- 主要介绍了框架Mlxtend的使用 ，具体的API函数见上面提到的官方文档。
 	- 毫不夸张的说，Stacking可以说是大型数据挖掘比赛的利器。
 	- 具体代码见我的Github，欢迎Star或者Fork（环境为Jupyter）
